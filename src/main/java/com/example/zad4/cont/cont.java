@@ -4,6 +4,7 @@ public class cont {
 
     private int a;
     private b
+
     cont(){
 
     }
